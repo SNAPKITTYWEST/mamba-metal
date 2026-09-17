@@ -1,0 +1,27 @@
+# Build
+build/
+*.o
+*.a
+*.so
+*.dylib
+*.metallib
+*.air
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*~
+*.xcworkspace
+*.xcuserdata
+xcuserdata/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
