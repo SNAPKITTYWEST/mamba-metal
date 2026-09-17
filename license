@@ -1,0 +1,67 @@
+Dual License Notice: GPL‑2.0 or AGPL‑3.0
+Copyright (c) 2026 BEL ESPRIT D ACCORD 
+
+This software is provided under a dual-license model. You may choose to use,
+modify, and distribute it under the terms of either:
+
+  (1) The GNU General Public License version 2.0 (GPL‑2.0), or
+  (2) The GNU Affero General Public License version 3.0 (AGPL‑3.0).
+
+Both licenses are strong copyleft licenses intended to guarantee that all
+recipients retain the freedom to study, modify, and share the software.
+
+---------------------------------------------
+GPL‑2.0 Terms (Summary)
+---------------------------------------------
+If you choose GPL‑2.0, you may copy, modify, and redistribute the software,
+provided that:
+
+  • Any distributed version, modified or unmodified, must also be licensed
+    under GPL‑2.0.
+  • Source code for all distributed versions must be made available.
+  • You may not impose additional restrictions beyond those permitted by
+    GPL‑2.0.
+  • The software is provided without warranty, as permitted by applicable law.
+
+This option is suitable for traditional distribution models where software is
+delivered as binaries or source packages.
+
+---------------------------------------------
+AGPL‑3.0 Terms (Summary)
+---------------------------------------------
+If you choose AGPL‑3.0, you may copy, modify, and redistribute the software,
+provided that:
+
+  • Any distributed or network‑accessible version, modified or unmodified,
+    must also be licensed under AGPL‑3.0.
+  • Source code for all distributed or remotely‑used versions must be made
+    available to all users who interact with the software over a network.
+  • You may not impose additional restrictions beyond those permitted by
+    AGPL‑3.0.
+  • The software is provided without warranty, as permitted by applicable law.
+
+This option is suitable for server‑side, SaaS, or network‑executed software
+where users interact with the program remotely.
+
+---------------------------------------------
+Patent & Trademark
+---------------------------------------------
+This dual license does not grant trademark rights. Any patent rights are
+granted only to the extent required by the chosen license (GPL‑2.0 or
+AGPL‑3.0).
+
+---------------------------------------------
+Disclaimer
+---------------------------------------------
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON‑INFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY ARISING FROM THE USE OR DISTRIBUTION OF THIS SOFTWARE.
+
+---------------------------------------------
+License Selection
+---------------------------------------------
+You may select either GPL‑2.0 or AGPL‑3.0 for your use of this software. Any
+redistribution must clearly state which license applies to the distributed
+version.
