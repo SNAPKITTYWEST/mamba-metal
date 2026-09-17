@@ -27,6 +27,8 @@
 ![Precision](https://img.shields.io/badge/precision-FP32%20%7C%20FP16-blueviolet)
 ![Status](https://img.shields.io/badge/status-complete%20implementation-orange)
 
+![Snapkitty Apple emblem with silver cat ears — Mamba Metal](assets/snapkitty-apple-metal.png)
+
 ---
 
 ## What is this?
